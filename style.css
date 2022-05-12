@@ -1,0 +1,11 @@
+.container {
+    width: 760px;
+    height: 1000px;
+    background-color: red;
+}
+
+.container1 {
+    width: 240px;
+    height: 760px;
+    background-color: blue;
+}
